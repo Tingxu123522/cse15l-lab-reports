@@ -102,9 +102,9 @@ Example3: using the command with a path to a file as an argument.
 
 Absolute Path to the working directory Before Command: /Users/tingxu/Documents
 
-Explanation: this displays the file if it exists. ls can list directories or specific file names. 
+Explanation: it reads the file and displays its content to the standard output. This is the primary use of cat—to view the contents of text files. In this example, file.txt contains a code piece, which is correctly displayed.
 
-Output Error: No, unless the file doesn’t exist, then it's an error.
+Output Error: No.
 
 
 
