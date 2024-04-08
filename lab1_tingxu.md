@@ -39,7 +39,7 @@ Example1: using the command with no arguments.
 
 ![Image](p4.png)
 
-Absolute Path to the working directory Before Command: /home/username 
+Absolute Path to the working directory Before Command: /Users/tingxu
 
 Explanation: Lists the contents of the current working directory. If there are files and directories, they are displayed.
 
@@ -49,11 +49,11 @@ Output Error: No. It is the expected behavior.
 
 Example2: using the command with a path to a directory as an argument.
 
-![Image](p2.png)
+![Image](p5.png)
 
 Absolute Path to the working directory Before Command: /Users/tingxu
 
-Explanation: The cd Documents command changes the current directory to Documents. The path changes accordingly.
+Explanation: Lists the contents of /home/username/Documents. This shows files and subdirectories inside Documents.
 
 Output Error?: No error
 
