@@ -77,9 +77,10 @@ Example1: using the command with no arguments.
 
 Absolute Path to the working directory Before Command: /Users/tingxu
 
-Explanation: Lists the contents of the current working directory. If there are files and directories, they are displayed.
+Explanation: When executed without any arguments, cat waits for input from the standard input (stdin). After the input is provided (e.g., "Hello, World!") and terminated (usually with Ctrl+D on a new line in Unix/Linux), cat echoes the input to the standard output. This can be used for quick text entry or piping output from another command.
 
-Output Error: No. It is the expected behavior.
+Output Error: No.
+
 
 
 
