@@ -25,7 +25,7 @@ Output Error?: No error
 
 Example3: using the command with a path to a file as an argument.
 
-![Image](p2.png)
+![Image](p3.png)
 
 Absolute Path to the working directory Before Command: /Users/tingxu
 
