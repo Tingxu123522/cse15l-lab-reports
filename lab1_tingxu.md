@@ -20,3 +20,16 @@ Absolute Path to the working directory Before Command: /Users/tingxu
 Explanation: The cd Documents command changes the current directory to Documents. The path changes accordingly.
 
 Output Error?: No error
+
+
+
+Example3: using the command with a path to a file as an argument.
+
+![Image](p2.png)
+
+Absolute Path to the working directory Before Command: /Users/tingxu
+
+Explanation: cd cannot be used with a file as an argument. It is intended for changing directories, not opening files.
+
+Output Error?: Yes. This is an error because cd only works with directories.
+
