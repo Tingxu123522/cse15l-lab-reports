@@ -27,7 +27,7 @@ Example3: using the command with a path to a file as an argument.
 
 ![Image](p3.png)
 
-Absolute Path to the working directory Before Command: /Users/tingxu
+Absolute Path to the working directory Before Command: /Users/tingxu/Documents
 
 Explanation: cd cannot be used with a file as an argument. It is intended for changing directories, not opening files.
 
@@ -68,5 +68,42 @@ Absolute Path to the working directory Before Command: /Users/tingxu/Documents
 Explanation: this displays the file if it exists. ls can list directories or specific file names. 
 
 Output Error?: No, unless the file doesn’t exist, then it's an error.
+
+3. cat
+
+Example1: using the command with no arguments.
+
+![Image](p4.png)
+
+Absolute Path to the working directory Before Command: /Users/tingxu
+
+Explanation: Lists the contents of the current working directory. If there are files and directories, they are displayed.
+
+Output Error: No. It is the expected behavior.
+
+
+
+Example2: using the command with a path to a directory as an argument.
+
+![Image](p5.png)
+
+Absolute Path to the working directory Before Command: /Users/tingxu
+
+Explanation: Lists the contents of /home/username/Documents. This shows files and subdirectories inside Documents.
+
+Output Error?: No error
+
+
+
+Example3: using the command with a path to a file as an argument.
+
+![Image](p6-1.png)
+
+Absolute Path to the working directory Before Command: /Users/tingxu/Documents
+
+Explanation: this displays the file if it exists. ls can list directories or specific file names. 
+
+Output Error?: No, unless the file doesn’t exist, then it's an error.
+
 
 
