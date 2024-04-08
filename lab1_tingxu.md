@@ -86,7 +86,7 @@ Output Error: No.
 
 Example2: using the command with a path to a directory as an argument.
 
-![Image](p5.png)
+![Image](p8.png)
 
 Absolute Path to the working directory Before Command: /Users/tingxu
 
