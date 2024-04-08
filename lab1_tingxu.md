@@ -55,7 +55,7 @@ Absolute Path to the working directory Before Command: /Users/tingxu
 
 Explanation: Lists the contents of /home/username/Documents. This shows files and subdirectories inside Documents.
 
-Output Error?: No error
+Output Error: No error
 
 
 
@@ -67,7 +67,7 @@ Absolute Path to the working directory Before Command: /Users/tingxu/Documents
 
 Explanation: this displays the file if it exists. ls can list directories or specific file names. 
 
-Output Error?: No, unless the file doesn’t exist, then it's an error.
+Output Error: No, unless the file doesn’t exist, then it's an error.
 
 3. cat
 
@@ -91,7 +91,7 @@ Absolute Path to the working directory Before Command: /Users/tingxu
 
 Explanation: Lists the contents of /home/username/Documents. This shows files and subdirectories inside Documents.
 
-Output Error?: No error
+Output Error: No error
 
 
 
@@ -103,7 +103,7 @@ Absolute Path to the working directory Before Command: /Users/tingxu/Documents
 
 Explanation: this displays the file if it exists. ls can list directories or specific file names. 
 
-Output Error?: No, unless the file doesn’t exist, then it's an error.
+Output Error: No, unless the file doesn’t exist, then it's an error.
 
 
 
