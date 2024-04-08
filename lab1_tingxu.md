@@ -90,9 +90,9 @@ Example2: using the command with a path to a directory as an argument.
 
 Absolute Path to the working directory Before Command: /Users/tingxu
 
-Explanation: Lists the contents of /home/username/Documents. This shows files and subdirectories inside Documents.
+Explanation: Attempting to use cat on a directory results in an error because cat is designed to read and concatenate files, not directories. The error message explicitly states that the target (Documents in this case) is a directory, indicating that the operation is not applicable.
 
-Output Error: No error
+Output Error: Yes, because cat cannot be used directly on directories.
 
 
 
