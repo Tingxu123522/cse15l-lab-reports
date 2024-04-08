@@ -2,9 +2,7 @@
 
 Example1: using the command with no arguments.
 
-tingxu@Tings-MacBook-Pro ~ % cd
-tingxu@Tings-MacBook-Pro ~ % pwd
-/Users/tingxu
+![Image](p1.png)
 
 
 Command: cd
