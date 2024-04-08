@@ -8,7 +8,43 @@ Absolute Path to the working directory Before Command:  /Users/tingxu
 
 Explanation: Running cd with no arguments returns the user to their home directory. The output doesn't show anything, but the working directory changes
 
-Output Error?: No error.
+Output Error: No error.
+
+
+Example2: using the command with a path to a directory as an argument.
+
+![Image](p2.png)
+
+Absolute Path to the working directory Before Command: /Users/tingxu
+
+Explanation: The cd Documents command changes the current directory to Documents. The path changes accordingly.
+
+Output Error: No error
+
+
+
+Example3: using the command with a path to a file as an argument.
+
+![Image](p3.png)
+
+Absolute Path to the working directory Before Command: /Users/tingxu
+
+Explanation: cd cannot be used with a file as an argument. It is intended for changing directories, not opening files.
+
+Output Error: Yes. This is an error because cd only works with directories.
+
+2. ls
+
+Example1: using the command with no arguments.
+
+![Image](p1.png)
+
+Absolute Path to the working directory Before Command: /home/username 
+
+Explanation: Lists the contents of the current working directory. If there are files and directories, they are displayed.
+
+Output Error: No. It is the expected behavior.
+
 
 
 Example2: using the command with a path to a directory as an argument.
@@ -32,4 +68,5 @@ Absolute Path to the working directory Before Command: /Users/tingxu
 Explanation: cd cannot be used with a file as an argument. It is intended for changing directories, not opening files.
 
 Output Error?: Yes. This is an error because cd only works with directories.
+
 
