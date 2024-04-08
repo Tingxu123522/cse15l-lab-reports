@@ -98,7 +98,7 @@ Output Error: Yes, because cat cannot be used directly on directories.
 
 Example3: using the command with a path to a file as an argument.
 
-![Image](p9-1.png)
+![Image](p9.png)
 
 Absolute Path to the working directory Before Command: /Users/tingxu/Documents
 
