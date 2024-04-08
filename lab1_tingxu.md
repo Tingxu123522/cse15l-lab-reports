@@ -4,7 +4,8 @@ Example1: using the command with no arguments.
 
 ![Image](p1.png)
 
+Absolute Path Before Command:  /Users/tingxu
 
-Command: cd
-Working directory Before Command: /Users/tingxu
-Output: 
+Explanation: Running cd with no arguments returns you to your home directory. In this case, since we're already in the home directory, the command does not change the path.Output 
+
+Error?: No error.
