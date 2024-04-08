@@ -37,7 +37,7 @@ Output Error: Yes. This is an error because cd only works with directories.
 
 Example1: using the command with no arguments.
 
-![Image](p1.png)
+![Image](p4.png)
 
 Absolute Path to the working directory Before Command: /home/username 
 
