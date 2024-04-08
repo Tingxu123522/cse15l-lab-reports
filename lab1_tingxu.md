@@ -73,7 +73,7 @@ Output Error: No, unless the file doesn’t exist, then it's an error.
 
 Example1: using the command with no arguments.
 
-![Image](p4.png)
+![Image](p7.png)
 
 Absolute Path to the working directory Before Command: /Users/tingxu
 
