@@ -9,3 +9,6 @@ Absolute Path Before Command:  /Users/tingxu
 Explanation: Running cd with no arguments returns you to your home directory. In this case, since we're already in the home directory, the command does not change the path.Output 
 
 Error?: No error.
+
+Example2: using the command with a path to a directory as an argument.
+
