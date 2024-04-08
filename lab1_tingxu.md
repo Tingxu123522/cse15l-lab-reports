@@ -61,12 +61,12 @@ Output Error?: No error
 
 Example3: using the command with a path to a file as an argument.
 
-![Image](p3.png)
+![Image](p6.png)
 
-Absolute Path to the working directory Before Command: /Users/tingxu
+Absolute Path to the working directory Before Command: /Users/tingxu/Documents
 
-Explanation: cd cannot be used with a file as an argument. It is intended for changing directories, not opening files.
+Explanation: this displays the file if it exists. ls can list directories or specific file names. 
 
-Output Error?: Yes. This is an error because cd only works with directories.
+Output Error?: No, unless the file doesn’t exist, then it's an error.
 
 
