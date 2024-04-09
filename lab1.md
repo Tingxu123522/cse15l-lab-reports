@@ -53,7 +53,7 @@ Example2: using the command with a path to a directory as an argument.
 
 Absolute Path to the working directory Before Command: `/Users/tingxu`
 
-Explanation: Lists the contents of /home/username/Documents. This shows files and subdirectories inside Documents.
+Explanation: Lists the contents of `/home/username/Documents`. This shows files and subdirectories inside Documents.
 
 Output Error: No error
 
@@ -77,7 +77,7 @@ Example1: using the command with no arguments.
 
 Absolute Path to the working directory Before Command: `/Users/tingxu`
 
-Explanation: When executed without any arguments, cat waits for input from the standard input (stdin). After the input is provided (e.g., "Hello, World!") and terminated (usually with Ctrl+D on a new line in Unix/Linux), cat echoes the input to the standard output. This can be used for quick text entry or piping output from another command.
+Explanation: When executed without any arguments, `cat` waits for input from the standard input (stdin). After the input is provided (e.g., "Hello, World!") and terminated (usually with Ctrl+D on a new line in Unix/Linux), `cat` echoes the input to the standard output. This can be used for quick text entry or piping output from another command.
 
 Output Error: No.
 
@@ -90,9 +90,9 @@ Example2: using the command with a path to a directory as an argument.
 
 Absolute Path to the working directory Before Command: `/Users/tingxu`
 
-Explanation: Attempting to use cat on a directory results in an error because cat is designed to read and concatenate files, not directories. The error message explicitly states that the target (Documents in this case) is a directory, indicating that the operation is not applicable.
+Explanation: Attempting to use `cat` on a directory results in an error because `cat` is designed to read and concatenate files, not directories. The error message explicitly states that the target (Documents in this case) is a directory, indicating that the operation is not applicable.
 
-Output Error: Yes, because cat cannot be used directly on directories.
+Output Error: Yes, because `cat` cannot be used directly on directories.
 
 
 
@@ -102,7 +102,7 @@ Example3: using the command with a path to a file as an argument.
 
 Absolute Path to the working directory Before Command: `/Users/tingxu/Documents`
 
-Explanation: it reads the file and displays its content to the standard output. This is the primary use of cat—to view the contents of text files. In this example, file.txt contains a code piece, which is correctly displayed.
+Explanation: it reads the file and displays its content to the standard output. This is the primary use of `cat—to` view the contents of text files. In this example, `file.txt` contains a code piece, which is correctly displayed.
 
 Output Error: No.
 
