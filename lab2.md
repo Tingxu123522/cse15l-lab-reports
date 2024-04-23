@@ -89,5 +89,20 @@ c. How do the values of any relevant fields of the class change from this specif
 The screenshot of using `/add-message?s=How are you&user=yash`:
 
 ![Image](lab2-p2.jpg)
+a. Which methods in your code are called?
 
+`handle -> queryToMap`
+
+b. What are the relevant arguments to those methods, and the values of any relevant fields of the class?
+
+`handle`: The argument is exchange which represents the second `HTTP` transaction.
+
+`queryToMap`: The argument is query which is `s=How are you&user=yash`.
+
+`chatHistory`: The value is now `jpolitz: Hello\n`.
+
+c. How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+
+`chatHistory`: The value changes from `jpolitz: Hello\n` to `jpolitz: Hello\nyash: How are you\n`.
+In both cases, the chatHistory field is updated with the new chat message in the format `<user>: <message>\n`. This is the only field that changes as a result of the requests. The change reflects the accumulation of chat messages.
 
