@@ -106,3 +106,7 @@ c. How do the values of any relevant fields of the class change from this specif
 `chatHistory`: The value changes from `jpolitz: Hello\n` to `jpolitz: Hello\nyash: How are you\n`.
 In both cases, the chatHistory field is updated with the new chat message in the format `<user>: <message>\n`. This is the only field that changes as a result of the requests. The change reflects the accumulation of chat messages.
 
+
+Part 2:
+
+
