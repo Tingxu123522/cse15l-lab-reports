@@ -66,3 +66,11 @@ public class ChatServer {
 
 The screenshot of using `/add-message?s=Hello&user=jpolitz`:
 
+![Image](lab2-p1.jpg)
+
+
+The screenshot of using `/add-message?s=How are you&user=yash`:
+
+![Image](lab2-p2.jpg)
+
+
