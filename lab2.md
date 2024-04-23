@@ -68,6 +68,23 @@ The screenshot of using `/add-message?s=Hello&user=jpolitz`:
 
 ![Image](lab2-p1.jpg)
 
+a. Which methods in your code are called?
+
+`main -> start -> handle -> queryToMap`
+
+b. What are the relevant arguments to those methods, and the values of any relevant fields of the class?
+
+`start`: The argument is port which is `8003`.
+
+`handle`: The argument is exchange which represents the first `HTTP` transaction.
+
+`queryToMap`: The argument is query which is `s=Hello&user=jpolitz`.
+
+`chatHistory`: The value is initially an empty `StringBuilder`.
+
+c. How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+
+`chatHistory`: The value changes from an empty `StringBuilder` to `jpolitz: Hello\n`.
 
 The screenshot of using `/add-message?s=How are you&user=yash`:
 
