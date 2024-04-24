@@ -108,5 +108,17 @@ In both cases, the chatHistory field is updated with the new chat message in the
 
 
 Part 2:
+1.
 
+![Image](lab2-p4.png)
+2.
 
+![Image](lab2-p5.png)
+3.
+
+![Image](lab2-p6.png)
+
+Part 3:
+In Week 2's lab, I was introduced to the intricacies of URLs and how they are essential for locating resources on servers. I learned to remotely connect to my CSE15L account, which provided a practical understanding of accessing and interacting with a server. 
+
+In Week 3, I gained practical experience with VSCode, enhancing my local development setup. I learned how to manage SSH keys for secure, password-less connections to remote servers. 
