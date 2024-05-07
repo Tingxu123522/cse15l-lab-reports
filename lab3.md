@@ -129,6 +129,26 @@ $ find ./technical -size -1k
 ./technical/plos/file1.txt
 ```
 
+**Option 4: `-mtime`:**
+
+The `-mtime` option allows you to search for files based on the modification time. The time is specified in days.
+
+```ruby
+$ find ./technical -mtime -7
+./technical/plos/file2.txt
+```
+
+```ruby
+$ find ./technical -mtime +30
+./technical/biomed/file2.txt
+./technical/plos/file0.txt
+./technical/plos/file1.txt
+./technical/911report/chapter-1.txt
+```
+
+Source:
+1.Chat
+
 
 
 
