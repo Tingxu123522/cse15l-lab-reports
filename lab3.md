@@ -66,4 +66,6 @@ public class ArrayExamples {
 }
 ```
 
-Briefly describe (2-3 sentences) why the fix addresses the issue.
+*5. Briefly describe (2-3 sentences) why the fix addresses the issue.*
+
+The fix addresses the issue by swapping elements correctly only up to the halfway point (`arr.length / 2`). The original code overwrote elements incorrectly, resulting in a failure when reversing an odd-length array. The corrected code now uses a temporary variable to hold the current element being swapped, ensuring proper element swapping.
