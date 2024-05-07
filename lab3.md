@@ -39,5 +39,31 @@ public class ArrayTests {
 ![Image](lab4-1.png)
 
 
-The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown).
+*4. The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown).*
+
+**Before Code Change:**
+
+```ruby
+public class ArrayExamples {
+    static void reverseInPlace(int[] arr) {
+        for (int i = 0; i < arr.length; i += 1) {
+            arr[i] = arr[arr.length - i - 1];
+        }
+    }
+}
+```
+
+**After Code Change:**
+```ruby
+public class ArrayExamples {
+    static void reverseInPlace(int[] arr) {
+        for (int i = 0; i < arr.length / 2; i += 1) {
+            int temp = arr[i];
+            arr[i] = arr[arr.length - i - 1];
+            arr[arr.length - i - 1] = temp;
+        }
+    }
+}
+```
+
 Briefly describe (2-3 sentences) why the fix addresses the issue.
