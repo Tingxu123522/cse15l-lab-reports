@@ -82,7 +82,7 @@ The `-type` option allows you to specify the type of file you're searching for. 
 $ find ./technical -type d
 ./technical
 ./technical/plos
-./technical/911report
+./technical/sun
 ./technical/government
 ```
 
@@ -92,7 +92,7 @@ $ find ./technical -type f
 ./technical/plos/file0.txt
 ./technical/plos/file1.txt
 ./technical/plos/file2.txt
-./technical/911report/chapter-1.txt
+./technical/sun/chapter-1.txt
 ```
 
 **Option 2: `-name:`**
@@ -119,7 +119,7 @@ The `-size` option allows you to search for files based on their size. The size 
 ```ruby
 $ find ./technical -size +1k
 ./technical/biomed/file2.txt
-./technical/911report/chapter-1.txt
+./technical/sun/chapter-1.txt
 ./technical/government/About_LSC.txt
 ```
 
@@ -143,12 +143,13 @@ $ find ./technical -mtime +30
 ./technical/biomed/file2.txt
 ./technical/plos/file0.txt
 ./technical/plos/file1.txt
-./technical/911report/chapter-1.txt
+./technical/sun/chapter-1.txt
 ```
 
 Source:
-1.Chat
+1.`https://www.geeksforgeeks.org/find-command-in-linux-with-examples/`
 
+ How to Find a File in Linux | Find Command = https://www.geeksforgeeks.org/find-command-in-linux-with-examples/,
 
 
 
