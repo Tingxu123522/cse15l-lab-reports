@@ -206,6 +206,13 @@ tingxu@Tings-MacBook-Pro docsearch % find ./technical -mtime -30
 At first, I used ChatGPT to find an introduction and examples of the `find` command, and since we need 2 examples of using this command with . Files and directories in /technical, so I ran the command using my computer and copied the output to this document, during this process I had some difficulties, especially with using the time to find the files, because the time was too close, within 1 day, so the results for the last 1 day and the last 30 days were the same.
 
 
+![Image](GPT1.png)
 
+![Image](GPT2.png)
 
+![Image](GPT3.png)
+
+![Image](GPT4.png)
+
+![Image](GPT5.png)
 
