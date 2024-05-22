@@ -13,8 +13,9 @@
 
 
 **5. Clone your fork of the repository from your Github account (using the SSH URL)**
- 
 
+ a. command: `ssh tix005@ieng6.ucsd.edu`
+ b. Keys pressed:: `ssh<space>tix005<@>ieng6<.>ucsd<.>edu`
 
 ![Image](lab4-2.png)
 
@@ -39,6 +40,10 @@
 ![Image](lab4-6.png)
 
 ![Image](lab4-7.png)
+
+
+## Speeding Up
+
 
 
 
