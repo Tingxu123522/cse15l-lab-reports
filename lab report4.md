@@ -52,6 +52,8 @@
  `delete`
  `2`
 `Esc`
+`shift`
+`;`
 `:x`
 `Enter`
 
