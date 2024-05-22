@@ -87,9 +87,8 @@
 
 
 
- ##  summarize the commands you ran and what the effect of those keypresses were.
 
- Command Summary: 
+ ## Command Summary: 
 
 Up Arrow Key: When I press the `<up>` key, your terminal displays the last command you executed. Each subsequent press scrolls further back through the command history.
 
