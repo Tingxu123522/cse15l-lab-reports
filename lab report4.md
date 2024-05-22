@@ -64,7 +64,7 @@
 
  a. command: `bash test.sh`
  
- b. Keys pressed:: <up><up><enter>
+ b. Keys pressed:: `<up><up><enter>`
 
 
 ![Image](lab4-5.png)
