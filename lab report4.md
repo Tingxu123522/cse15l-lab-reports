@@ -4,9 +4,9 @@
 
 
 
-**Find**
+**Timing Tasks**
 
-**Option 1:** `-type`: 
+*1. Login to ieng6 as usual (hopefully, without typing a password now!)*
 
 The `-type` option allows you to specify the type of file you're searching for. The common types are `f` for regular files, `d` for directories, and `l`for symbolic links.
 
