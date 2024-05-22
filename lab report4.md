@@ -39,6 +39,16 @@
      
 **7. Edit the code file to fix the failing test**
 
+ a. command: `vim ListExampls.java`
+ `i`
+ `delete`
+ `2`
+ 
+ b. Keys pressed:: `vim<space>ListExampls<.>java`
+ `i`
+ `delete`
+ `2`
+
 ![Image](lab4-4.png)
 
 
