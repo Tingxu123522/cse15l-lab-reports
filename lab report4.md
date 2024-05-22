@@ -44,7 +44,7 @@
  `delete`
  `2`
  `Esc`
-`:q!`
+`:x`
 `Enter`
  
  b. Keys pressed:: `vim<space>ListExampls<.>java`
@@ -52,13 +52,18 @@
  `delete`
  `2`
 `Esc`
-`:q!`
+`:x`
 `Enter`
 
 ![Image](lab4-4.png)
 
 
 **8. Run the tests, demonstrating that they now succeed**
+
+ a. command: `bash test.sh`
+ 
+ b. Keys pressed:: <up><up><enter>
+
 
 ![Image](lab4-5.png)
 
