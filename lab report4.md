@@ -1,4 +1,4 @@
-# Lab Report 4_Ting Xu
+# Ting Xu's Lab Report 4
 
 ## Speeding up Command Line Tasks
 
