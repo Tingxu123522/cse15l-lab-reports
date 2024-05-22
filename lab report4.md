@@ -9,8 +9,8 @@
 * 4. Log into ieng6 
 
 <span style = "color:blue"> 
- 
-4. Log into ieng6
+
+ Log into ieng6
      
 </span>
 
