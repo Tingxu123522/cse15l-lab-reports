@@ -29,7 +29,8 @@
  a. command: `cd lab7`
  `bash test.sh`
  
- b. Keys pressed:: ` git<space>clone<space>https://github.com/Tingxu123522/lab7`
+ b. Keys pressed:: `cd<space>lab7` 
+  `bash<space>test<.>sh`
 
 
 ![Image](lab4-3.png)
