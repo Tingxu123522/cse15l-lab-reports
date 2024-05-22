@@ -17,6 +17,9 @@
 
 **5. Clone your fork of the repository from your Github account (using the SSH URL)**
 
+ a. command: `git clone https://github.com/Tingxu123522/lab7`
+ 
+ b. Keys pressed:: ` git<space>clone<space>https://github.com/Tingxu123522/lab7`
 
 
 ![Image](lab4-2.png)
