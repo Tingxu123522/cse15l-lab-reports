@@ -18,8 +18,13 @@
 
 ![Image](lab4-2.png)
 
+* 6. Run the tests, demonstrating that they fail
+ 
+     
+* 7. Edit the code file to fix the failing test
+* 8. Run the tests, demonstrating that they now succeed
+* 9. Commit and push the resulting change to your Github account (you can pick any commit message!)
 
-The `-type` option allows you to specify the type of file you're searching for. The common types are `f` for regular files, `d` for directories, and `l`for symbolic links.
 
 ```ruby
 tingxu@Tings-MacBook-Pro docsearch % find ./technical -type d
