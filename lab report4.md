@@ -70,6 +70,25 @@
 
 **9. Commit and push the resulting change to your Github account (you can pick any commit message!)**
 
+
+ a. command: `vim ListExampls.java`
+ `i`
+ `delete`
+ `2`
+ `Esc`
+ `:x`
+`Enter`
+ 
+ b. Keys pressed:: `vim<space>ListExampls<.>java`
+ `i`
+ `delete`
+ `2`
+`Esc`
+`shift`
+`;`
+`:x`
+`Enter`
+
 ![Image](lab4-6.png)
 
 ![Image](lab4-7.png)
