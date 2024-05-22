@@ -33,7 +33,7 @@
   `bash<space>test<.>sh`
 
 
-![Image](lab4-3.png)
+![Image](lab4-8.png)
 
  
      
@@ -55,7 +55,7 @@
 `:x`
 `Enter`
 
-![Image](lab4-4.png)
+![Image](lab4-9.png)
 
 
 **8. Run the tests, demonstrating that they now succeed**
