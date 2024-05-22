@@ -8,11 +8,6 @@
 
 * 4. Log into ieng6 
 
-<span style = "color:blue"> 
-
- Log into ieng6
-     
-</span>
 
 ![Image](lab4-1.png)
 
