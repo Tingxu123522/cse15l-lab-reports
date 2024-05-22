@@ -87,7 +87,7 @@
 
 
 
- ## summarize the commands you ran and what the effect of those keypresses were.
+ ##  summarize the commands you ran and what the effect of those keypresses were.
 
  Command Summary: 
 
