@@ -47,7 +47,7 @@
 `:x`
 `Enter`
  
- b. Keys pressed:: `vim<space>ListExampls<.>java`
+ b. Keys pressed:: `vim<space>ListExampls<.>java` `<up><up><up><up><up><up><right><right><right><right><right><right><right><right><right><right><right><right>`
  `i`
  `delete`
  `2`
