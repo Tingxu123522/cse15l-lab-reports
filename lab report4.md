@@ -6,9 +6,18 @@
 
 **Timing Tasks**
 
-* 4. Log into ieng6 *
+* 4. Log into ieng6 
+
 
 ![Image](lab4-1.png)
+
+
+* 5. Clone your fork of the repository from your Github account (using the SSH URL)
+ 
+
+
+![Image](lab4-2.png)
+
 
 The `-type` option allows you to specify the type of file you're searching for. The common types are `f` for regular files, `d` for directories, and `l`for symbolic links.
 
