@@ -8,14 +8,16 @@
 
 **4. Log into ieng6**
 
+ a. command: `ssh tix005@ieng6.ucsd.edu`
+ 
+ b. Keys pressed:: `ssh<space>tix005<@>ieng6<.>ucsd<.>edu`
 
 ![Image](lab4-1.png)
 
 
 **5. Clone your fork of the repository from your Github account (using the SSH URL)**
 
- a. command: `ssh tix005@ieng6.ucsd.edu`
- b. Keys pressed:: `ssh<space>tix005<@>ieng6<.>ucsd<.>edu`
+
 
 ![Image](lab4-2.png)
 
