@@ -19,12 +19,18 @@
 
  a. command: `git clone https://github.com/Tingxu123522/lab7`
  
- b. Keys pressed:: ` git<space>clone<space>https://github.com/Tingxu123522/lab7`
+ b. Keys pressed:: `git<space>clone<space>https://github.com/Tingxu123522/lab7`
 
 
 ![Image](lab4-2.png)
 
 **6. Run the tests, demonstrating that they fail**
+
+ a. command: `cd lab7`
+ `bash test.sh`
+ 
+ b. Keys pressed:: ` git<space>clone<space>https://github.com/Tingxu123522/lab7`
+
 
 ![Image](lab4-3.png)
 
