@@ -43,11 +43,17 @@
  `i`
  `delete`
  `2`
+ `Esc`
+`:q!`
+`Enter`
  
  b. Keys pressed:: `vim<space>ListExampls<.>java`
  `i`
  `delete`
  `2`
+`Esc`
+`:q!`
+`Enter`
 
 ![Image](lab4-4.png)
 
