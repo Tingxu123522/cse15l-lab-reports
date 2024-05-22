@@ -75,10 +75,11 @@
 
  a. command: `git add .`
  `git commit -m "Fix the failing test"`
+`git push origin main`
  
  b. Keys pressed:: `git<space>add<space><.>`
  `git<space>commit<space><->m<space><shift><'>Fix<space>the<space>failing<space>test<shift><'>`
- 
+ `git<space>push<space>origin<space>main`
 
 ![Image](lab4-6.png)
 
