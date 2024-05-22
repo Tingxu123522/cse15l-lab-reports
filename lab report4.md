@@ -28,9 +28,11 @@
 
 ![Image](lab4-4.png)
 
+
 * 8. Run the tests, demonstrating that they now succeed
 
 ![Image](lab4-5.png)
+
 
 * 9. Commit and push the resulting change to your Github account (you can pick any commit message!)
 
