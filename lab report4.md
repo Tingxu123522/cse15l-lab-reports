@@ -11,6 +11,10 @@
  a. command: `ssh tix005@ieng6.ucsd.edu`
  
  b. Keys pressed:: `ssh<space>tix005<@>ieng6<.>ucsd<.>edu`
+ 
+ c. Effect: Initiates a secure connection to the server `ieng6.ucsd.edu` using the username `tix005`. This allows you to access and execute commands on the remote server.
+
+ d. Command Summary: `SSH` is used for secure remote login to servers. By executing this command, you are authenticated and granted access to the server, provided you have the necessary permissions and credentials.
 
 ![Image](lab4-1.png)
 
