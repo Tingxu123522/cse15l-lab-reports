@@ -25,6 +25,10 @@
  
  b. Keys pressed:: `git<space>clone<space>https://github.com/Tingxu123522/lab7`
 
+ c. Effect:  Clones the repository from the provided URL into the local directory, creating a copy of the entire project history.
+
+ d. Command Summary: The `git clone` command is used to copy a remote repository into a local workspace, allowing you to work on the project files.
+
 
 ![Image](lab4-2.png)
 
