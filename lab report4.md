@@ -107,6 +107,10 @@ d. Command Summary: Using the command history feature to rerun bash test.sh effi
  `git<space>commit<space><->m<space><shift><'>Fix<space>the<space>failing<space>test<shift><'>`
  `git<space>push<space>origin<space>main`
 
+c. Effect: Stages all changes, commits them with a specific message, and pushes the commit to the remote repository.
+
+d. Command Summary: These Git commands are used to secure the changes made to the source code. `git add .` stages changes, `git commit` saves them locally with a message, and git push updates the remote repository.
+
 ![Image](lab4-6.png)
 
 ![Image](lab4-7.png)
