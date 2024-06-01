@@ -73,6 +73,13 @@ c. Effect: Opens `ListExampls.java` in `Vim` editor for modifications. Commands 
 
 d. Command Summary: `Vim` is a powerful text editor used here to modify source code directly. The changes are meant to fix bugs that caused the initial test failures.
 
+Up Arrow Key: When I press the `<up>` key, your terminal displays the last command you executed. Each subsequent press scrolls further back through the command history.
+
+For instance, in this lab, we use `bash test.sh` and want to run it again without retyping the entire command, we can Press `<up>` until `bash test.sh` appears on the  command line. and then  Press `<enter>` to execute the command.
+
+The `bash test.sh` command was 2 up in the search history, so I used the up arrow to access it quickly. This command executes the script `test.sh` which runs a series of tests defined within the bash script. Using the up arrow allowed me to rerun the script efficiently without needing to retype the command, saving time and minimizing the potential for typing errors.
+
+
 ![Image](lab4-9.png)
 
 
@@ -107,13 +114,6 @@ d. Command Summary: Using the command history feature to rerun bash test.sh effi
 
 
 
-**Command Summary:**
-
-Up Arrow Key: When I press the `<up>` key, your terminal displays the last command you executed. Each subsequent press scrolls further back through the command history.
-
-For instance, in this lab, we use `bash test.sh` and want to run it again without retyping the entire command, we can Press `<up>` until `bash test.sh` appears on the  command line. and then  Press `<enter>` to execute the command.
-
-The `bash test.sh` command was 2 up in the search history, so I used the up arrow to access it quickly. This command executes the script `test.sh` which runs a series of tests defined within the bash script. Using the up arrow allowed me to rerun the script efficiently without needing to retype the command, saving time and minimizing the potential for typing errors.
 
 
 
