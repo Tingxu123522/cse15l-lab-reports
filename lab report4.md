@@ -82,6 +82,9 @@ d. Command Summary: `Vim` is a powerful text editor used here to modify source c
  
  b. Keys pressed:: `<up><up><enter>`
 
+c. Effect: Re-runs the test.sh script which now passes all tests, indicating the issues have been successfully resolved.
+
+d. Command Summary: Using the command history feature to rerun bash test.sh efficiently tests the recent code changes, confirming fixes without manual reentry of the command.
 
 ![Image](lab4-5.png)
 
