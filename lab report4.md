@@ -39,6 +39,10 @@
  
  b. Keys pressed:: `cd<space>lab7` 
   `bash<space>test<.>sh`
+ 
+c. Effect: Navigates to the `lab7` directory and runs the `test.sh` script, which performs tests that are expected to fail initially.
+
+d. Command Summary: Running the script with `bash test.sh` executes predefined test cases that verify the functionality of the code. Initially, these tests fail, indicating issues that need fixing.
 
 
 ![Image](lab4-8.png)
