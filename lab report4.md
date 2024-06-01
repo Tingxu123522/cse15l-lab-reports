@@ -69,6 +69,10 @@ d. Command Summary: Running the script with `bash test.sh` executes predefined t
 `x`
 `Enter`
 
+c. Effect: Opens `ListExampls.java` in `Vim` editor for modifications. Commands are used within `Vim` to delete erroneous lines and save the changes.
+
+d. Command Summary: `Vim` is a powerful text editor used here to modify source code directly. The changes are meant to fix bugs that caused the initial test failures.
+
 ![Image](lab4-9.png)
 
 
