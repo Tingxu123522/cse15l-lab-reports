@@ -84,3 +84,10 @@ bash run_sort.sh
 
 ```
 
+**Description of What to Edit to Fix the Bug:**
+
+The issue is due to the sorting function only making one pass over the array. implementing a simple Bubble Sort could be a good practice, which involves multiple passes through the array until no more swaps are needed.
+
+
+## Part 2 - Reflection
+
