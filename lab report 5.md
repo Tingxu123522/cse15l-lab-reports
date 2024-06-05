@@ -91,3 +91,5 @@ The issue is due to the sorting function only making one pass over the array. im
 
 ## Part 2 - Reflection
 
+During the latter half of this quarter, one intriguing thing I learned from our lab experiences was the extensive capabilities and efficiency of using `vim` for text editing directly from the command line. Previously, I had underestimated how powerful command line tools could be for software development. Through our lab exercises, especially the `vimtutor` session, I learned various commands that allowed me to navigate and edit files much faster than using traditional GUI-based text editors.
+
