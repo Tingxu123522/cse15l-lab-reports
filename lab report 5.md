@@ -20,6 +20,11 @@
 
 Description: The current sorting logic in my `ArrayProcessor.java` seems to perform only a single pass through the array. A single pass is insufficient for sorting the entire array unless it was nearly sorted already, which is not the case here.
 
+4
+**File & Directory Structure:**
+
+`ArrayProcessor.java` - Contains the main sorting logic.
+`run_sort.sh` - Bash script to compile and run the Java program.
    
 
 
