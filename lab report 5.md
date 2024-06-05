@@ -6,6 +6,8 @@
 
 ![Image](lab9-1.jpg)
 
-4. 
+2. **Response from a TA:**
+
+   
 
 
