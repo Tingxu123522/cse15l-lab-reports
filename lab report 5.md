@@ -18,6 +18,7 @@
 3
 ![Image](lab9-2.png)
 
+Description: The current sorting logic in my `ArrayProcessor.java` seems to perform only a single pass through the array. A single pass is insufficient for sorting the entire array unless it was nearly sorted already, which is not the case here.
 
    
 
