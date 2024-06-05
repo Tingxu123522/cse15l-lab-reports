@@ -14,7 +14,10 @@
 
    I hope this helps solve your problem, if you have any other questions, please feel free to ask.
 
-3. 
+
+3
+![Image](lab9-2.png)
+
 
    
 
