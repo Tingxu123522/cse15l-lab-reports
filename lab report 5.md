@@ -10,7 +10,7 @@
 
    Hello, It looks like the output `[1, 5, 2, 4, 3, 6]` is showing that the sorting algorithm isn't functioning as it should. This suggests that perhaps only the initial swap operation is taking place, rather than the whole array being sorted properly.
 
-   To address this, consider implementing a more comprehensive sorting algorithm. A simple Bubble Sort would be effective for learning purposes. This method requires multiple passes through the array, continuing until no further swaps are needed.
+   To address this, consider implementing a more comprehensive sorting algorithm. A simple Bubble Sort would be effective for learning purposes. This method requires multiple passes through the array, continuing until no further swaps are needed. and the command(`java -Ddebug=true ArrayProcessor` )may trace the flow of the sorting logic 
 
    I hope this helps solve your problem, if you have any other questions, please feel free to ask.
 
