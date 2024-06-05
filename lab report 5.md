@@ -24,7 +24,49 @@ Description: The current sorting logic in my `ArrayProcessor.java` seems to perf
 **File & Directory Structure:**
 
 `ArrayProcessor.java` - Contains the main sorting logic.
+
 `run_sort.sh` - Bash script to compile and run the Java program.
+
+**Contents of Each File Before Fixing the Bug:**
+
+```ruby
+import java.util.Arrays;
+
+public class ArrayProcessor {
+    public static void main(String[] args) {
+        int[] arr = {5, 1, 6, 2, 4, 3};
+        if (System.getProperty("debug") != null) {
+            debugSort(arr);
+        } else {
+            sort(arr);
+        }
+        System.out.println(Arrays.toString(arr));
+    }
+
+    public static void sort(int[] array) {
+        for (int i = 0; i < array.length - 1; i++) {
+            if (array[i] > array[i + 1]) {
+                int temp = array[i];
+                array[i] = array[i + 1];
+                array[i + 1] = temp;
+            }
+        }
+    }
+
+    public static void debugSort(int[] array) {
+        for (int i = 0; i < array.length - 1; i++) {
+            System.out.println("Debug: Entering loop with i=" + i);
+            System.out.println("Debug: Comparing " + array[i] + " and " + array[i + 1]);
+            if (array[i] > array[i + 1]) {
+                System.out.println("Debug: Swapping " + array[i] + " and " + array[i + 1]);
+                int temp = array[i];
+                array[i] = array[i + 1];
+                array[i + 1] = temp;
+            }
+        }
+    }
+}
+```
    
 
 
