@@ -29,6 +29,8 @@ Description: The current sorting logic in my `ArrayProcessor.java` seems to perf
 
 **Contents of Each File Before Fixing the Bug:**
 
+`ArrayProcessor.java`:
+
 ```ruby
 import java.util.Arrays;
 
