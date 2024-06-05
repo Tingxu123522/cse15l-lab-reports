@@ -69,6 +69,18 @@ public class ArrayProcessor {
     }
 }
 ```
-   
 
+`run_sort.sh`:
+
+```ruby
+javac ArrayProcessor.java
+java ArrayProcessor
+```
+   
+**Full Command Line to Trigger the Bug:**
+```ruby
+
+bash run_sort.sh
+
+```
 
